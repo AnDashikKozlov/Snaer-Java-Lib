@@ -1,0 +1,17 @@
+displayName: "Snaer Java Lib"
+description: "Java lib for Snaer mod."
+subtitle: "Java lib for Snaer"
+
+name: "snaer-java-lib"
+
+author: "AnDashik | Lethal Employee"
+
+main: "snaerLib.SnaerJavaLibMod"
+
+
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 146
+
+java: true
