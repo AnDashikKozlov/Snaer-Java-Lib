@@ -1,17 +1,16 @@
 displayName: "Snaer Java Lib"
 description: "Java lib for Snaer mod."
 subtitle: "Java lib for Snaer"
-
-name: "snaer-java-lib"
-
 author: "AnDashik | Lethal Employee"
 
+//Hide from browser because Snaer is bit dead rn
+hideBrowser: "true"
+
+name: "snaer-java-lib"
 main: "snaerLib.SnaerJavaLibMod"
 
-
 version: 1.0
-
-#the minimum game build required to run this mod
 minGameVersion: 146
+
 
 java: true
